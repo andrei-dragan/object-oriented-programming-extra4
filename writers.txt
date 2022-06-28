@@ -1,0 +1,4 @@
+Andrei,Senior
+Maria,Junior
+Ionut,Senior
+Sami,Assistant
